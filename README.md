@@ -11,6 +11,6 @@
 
 ## s
 <p align="left">
-  <a title="Fedora" href="https://www.fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://www.fedoraproject.org/w/uploads/archive/2/2d/20220616164712%21Logo_fedoralogo.png" alt="fedora" width="40" height="40"/></a>
+  <a title="Fedora" href="https://www.fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora" width="40" height="40"/></a>
   <a title="Linux" href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
