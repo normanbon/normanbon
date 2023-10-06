@@ -1,6 +1,6 @@
 ## Contacts
 
-- Discord: Norman Bon#5892
+- Discord: normanbon
 - E-Mail: norman.bon@protonmail.com
 - [GitLab](https://gitlab.com/normanbon)
 - [Itch](https://normanbon.itch.io)
@@ -16,10 +16,4 @@
     <a title="HTML" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
     <a title="Java" href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
     <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</p>
-
-## s
-<p align="left">
-  <a title="Linux" href="https://www.linux.or+g/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-origi+nal.svg" alt="linux" width="40" height="40"/></a>
-    <a title="Fedora" href="https://www.fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora" width="40" height="40"/></a>
 </p>
