@@ -25,6 +25,6 @@ This page is still WIP.
 
 ## Personal roadmap
 <p align="left">
-<a title="HTML" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg)" alt="html5" width="40" height="40"/></a>
+<a title="C++" href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
 </p>
 Note: every repository is a mirror of my Codeberg profile, including this readme. [Visit my Codeberg profile](https://codeberg.org/normanbon)
